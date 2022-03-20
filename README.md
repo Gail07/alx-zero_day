@@ -11,7 +11,7 @@ And it will be done in the form of tasks.
 ##### Step 0 - Create an account on GitHub
 You will need a GitHub account for all your projects at ALX. You can create an account for free [here](https://github.com/)
 
-##### Step 1 - C
+##### Step 1 - Create a Personal Access Token on GitHub 
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
 You can follow [this tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-tokento create a token.)
@@ -87,7 +87,7 @@ You pushed your first file in your **first repository** of the **first task** of
 
 You can now check your repository on GitHub to see if everything is good.
 
-####1. Repo-session
+#### 1. Repo-session
 
 Create a new directory called 0x03-git in your alx-zero_day repo.
 
