@@ -1,44 +1,44 @@
-#0x03. Git
+# 0x03. Git
 
 It is in this project to take in hand Git and GitHub.
 And it will be done in the form of tasks.
 
 
-##Tasks
+## Tasks
 
-####0. Create and setup your Git and GitHub account
+#### 0. Create and setup your Git and GitHub account
 
-#####Step 0 - Create an account on GitHub
-You will need a GitHub account for all your projects at ALX. You can create an account for free [here] (https://github.com/)
+##### Step 0 - Create an account on GitHub
+You will need a GitHub account for all your projects at ALX. You can create an account for free [here](https://github.com/)
 
-#####Step 1 - C
+##### Step 1 - C
 To have access to your repositories and authenticate yourself, you need to create a Personal Access Token on Github.
 
-You can follow [this tutorial] (https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-tokento create a token.)
+You can follow [this tutorial](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-tokento create a token.)
 
 Once it’s created, you should have a token that looks like this:
-![Create token] (https://docs.github.com/assets/cb-33474/images/help/settings/personal_access_tokens.png)
+![Create token](https://docs.github.com/assets/cb-33474/images/help/settings/personal_access_tokens.png)
 
-#####Step 2 - Update your profile on the intranet
-Update your Intranet profile by adding your Github username [here] (https://alx-intranet.hbtn.io/users/my_profile)
+##### Step 2 - Update your profile on the intranet
+Update your Intranet profile by adding your Github username [here](https://alx-intranet.hbtn.io/users/my_profile)
 
 If it’s not done **the Checker won’t be able to correct your work**
-![username case image] (https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/6270480a0a982cd1846b877eda2ee405d2e8f575.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220320T142655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ecbd4c2616d6cce76c3ad2edf01476d88ec7c5d8e5ea42148ef3511e5756b920)
+![username case image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/6270480a0a982cd1846b877eda2ee405d2e8f575.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220320T142655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ecbd4c2616d6cce76c3ad2edf01476d88ec7c5d8e5ea42148ef3511e5756b920)
 
-#####Step 3 - Create your first repository
-Using the graphic interface on the [github website] (https://github.com/), create your first repository.
+##### Step 3 - Create your first repository
+Using the graphic interface on the [github website](https://github.com/), create your first repository.
 
 Name: alx-zero_day
 Description: I'm now a ALX Student, this is my first repository as a full-stack engineer
 Public repo
 No README, .gitignore, or license
-![new repository] (https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220320T142655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=07663bc3773a20c746c8d18ca351243fca933b981b044d3eaff1a6fd9782fb6f)
+![new repository](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220320T142655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=07663bc3773a20c746c8d18ca351243fca933b981b044d3eaff1a6fd9782fb6f)
 
-#####Step 4 - Open the sandbox
-On the intranet, just under the task, click on the button ![Get a sandbox button] (https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220320T142655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e4448d8ad5750aade07b61e3950717d05661ce0f9366acc0d8a4f68b0fc2f13e) and run to start the machine.
-Once the container is started, click on ![Webterm button] (https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220320T142655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ae184dd24eb26ff36a11b0c1cab8486e0c5171d04ee7ec9ae84b3932d5341246) to open a shell where you can start work from.
+##### Step 4 - Open the sandbox
+On the intranet, just under the task, click on the button ![Get a sandbox button](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220320T142655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e4448d8ad5750aade07b61e3950717d05661ce0f9366acc0d8a4f68b0fc2f13e) and run to start the machine.
+Once the container is started, click on ![Webterm button](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220320T142655Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ae184dd24eb26ff36a11b0c1cab8486e0c5171d04ee7ec9ae84b3932d5341246) to open a shell where you can start work from.
 
-#####Step 5 - Clone your repository
+##### Step 5 - Clone your repository
 On the webterm of the sandbox, do the following:
 - Clone your repository
 
@@ -53,9 +53,9 @@ warning: You appear to have cloned an empty repository.
 **Replace {YOUR_PERSONAL_TOKEN} with your token from step 1**
 **Replace {YOUR_USERNAME} with your username from step 1**
 
-#####Step 6 - Create the README.md and push the modifications
-- Navigaye to this new directory [tips] (https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
-- Create the file README.md with the content My first readme. [Tips] (https://www.howtoforge.com/community/threads/echo-into-a-file.115/)
+##### Step 6 - Create the README.md and push the modifications
+- Navigaye to this new directory [tips](https://askubuntu.com/questions/232442/how-do-i-navigate-between-directories-in-terminal)
+- Create the file README.md with the content My first readme. [Tips](https://www.howtoforge.com/community/threads/echo-into-a-file.115/)
 - Update your git identity
 ```
 
@@ -99,7 +99,7 @@ And important part: **Make sure your commit and push your code to Github - other
 **Repo:**
 - GitHub repository: alx-zero_day
 
-####2. Coding fury road
+#### 2. Coding fury road
 
 For the moment we have an empty project directory containing only a README.md. It’s time to code!
 
@@ -119,7 +119,7 @@ For the moment we have an empty project directory containing only a README.md. I
     - Directory: 0x03-git
     - File: bash/alx, bash/school, c/c_is_fun.c, js/main.js, js/index.js
 
-####3. Collaboration is the base of a company
+#### 3. Collaboration is the base of a company
 
 A branch is like a copy of your project. It’s used mainly for:
 
@@ -154,7 +154,7 @@ Ouf, hot fix is done!
   - Directory: 0x03-git
   - File: bash/alx, bash/school, bash/98
 
-####4. Collaboration: be up to date
+#### 4. Collaboration: be up to date
 
 Of course, you can also work on the same branch as your co-workers and it’s best if you keep up to date with their changes.
 
@@ -172,7 +172,7 @@ After you have done that, in your terminal:
   - Directory: 0x03-git
   - File: README.md, up_to_date
 
-####5. HAAA what did you do???
+#### 5. HAAA what did you do???
 
 Collaboration is cool, but not really when you update the same file at the same time…
 
@@ -196,7 +196,7 @@ At the end, you should have all your work from the branch update_script (new fil
   - GitHub repository: alx-zero_day
   - Directory: 0x03-git
 
-####6. Never push too much
+#### 6. Never push too much
 
 Create a .gitignore file and define a rule to never push ~ files (generated by Emacs). [Tips] (https://git-scm.com/docs/gitignore)
 
